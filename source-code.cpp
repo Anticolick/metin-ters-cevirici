@@ -4,8 +4,8 @@
 
   int main()
   {
-   cout<<"yaz yavrum ben ters cevirip sana sokcam\n";
-   char cumle[MAKS];
+   
+    char cumle[MAKS];
   	char tersi[MAKS];
   	cin.getline(cumle, MAKS - 1);
 
